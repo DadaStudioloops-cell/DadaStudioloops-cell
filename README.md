@@ -14,9 +14,20 @@ Satisfying physics videos for Shorts, Reels and TikTok, made in the browser. Pic
 
 **Try it:** [bouncesimulator.com](https://www.bouncesimulator.com)
 
+### [DocuVerse](https://docuverse-4bu.pages.dev)
+
+Free PDF and document tools that run entirely in your browser, so your files are never uploaded. Convert, merge, compress and read PDFs, Word files and images, with no sign-up.
+
+- PDF to Word, Word to PDF, merge, split, compress, rotate, watermark and page numbers
+- Read text from photos and scans (OCR), and convert between image formats
+- Customer Speak: a plain-English summary that flags fees, deadlines and renewals, questions answered with quotes from your document, and read-aloud
+- Works with Hindi and the ₹ sign
+
+**Try it:** [docuverse-4bu.pages.dev](https://docuverse-4bu.pages.dev)
+
 ## Get in touch
 
 - Email: [hello@bouncesimulator.com](mailto:hello@bouncesimulator.com)
-- Products: [bouncesimulator.com](https://www.bouncesimulator.com)
+- Products: [bouncesimulator.com](https://www.bouncesimulator.com) · [DocuVerse](https://docuverse-4bu.pages.dev)
 
 More products are on the way.
